@@ -1,0 +1,36 @@
+.form__input input {
+  width: 100%;
+  padding: 7px 25px;
+  height: 10px;
+  color: #fff;
+  background: transparent;
+  outline: none;
+  border-radius: 5px;
+  border: 4px solid #5142fc;
+}
+.form__input {
+  margin-top: 15px;
+}
+.form__input label {
+  color: #fff;
+  margin-bottom: 10px;
+}
+.form__input .upload__input {
+  padding: 30px 20px;
+}
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+  cursor: pointer;
+}
+textarea {
+  background: transparent;
+  border-radius: 5px;
+  border: 4px solid #5142fc;
+  outline: none;
+  padding: 7px 25px;
+}
+@media (max-width: 576px) {
+  .create__item {
+    margin-top: 15px;
+  }
+}
