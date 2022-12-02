@@ -48,7 +48,7 @@ export default function Create() {
                     <label htmlFor="">Minimum Bid</label>
                     <input
                       type="number"
-                      placeholder=" Ene=ter Minimum Bid"
+                      placeholder=" Eneter Minimum Bid"
                       className="upload__input"
                     />
                   </div>
